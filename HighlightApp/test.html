@@ -1,0 +1,29 @@
+
+<html>
+<head>
+</head>
+<body>
+
+<button id="tae_button">test</button>
+
+<script  type="text/javascript">
+	$("button").click(function(){
+   
+	$.ajax({
+		type: 'GET',
+		url: 'http://localhost:61773/GETHL.aspx',
+		dataType: 'json',
+		success: function(data)
+		{
+		 alert('success' + data);
+		},
+		error: function(response)
+		{
+		 alert('Error: ' + response.responseText);
+		},
+		});
+		});
+
+</script>
+</body>
+</html>

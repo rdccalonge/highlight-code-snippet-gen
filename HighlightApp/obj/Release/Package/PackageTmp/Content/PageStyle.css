@@ -1,0 +1,94 @@
+﻿body {
+    background-color: #fff;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    min-height: 100%;
+    position: relative;
+    height: 100%;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.select:hover {
+    cursor: pointer;
+}
+
+.colorselect:hover {
+    cursor: pointer;
+}
+
+.selects {
+    text-align: center;
+}
+
+
+
+#likeselect, #dislikeselect {
+    color: transparent;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    -moz-border-radius: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+
+.instruction-text {
+    padding: 10px;
+    background-image: url('default/footerPattern.png');
+    background-color: #f1f1f1;
+    border: 2px outset grey;
+    font-family: 'Century Gothic';
+}
+
+
+.redirect {
+    text-align: center;
+}
+
+.glyphicon {
+    color: green;
+    font-size: 3em;
+    text-align: center;
+}
+
+#lblContent {
+    padding: 10px 10px 10px 10px;
+}
+
+table.nav-table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+    table.nav-table td:not(:last-child) {
+        width: 33%;
+        text-align: center;
+    }
+
+.reset {
+    text-align: right;
+}
+
+.functions-div {
+    width: 100%;
+}
+/*.fields{
+    visibility: hidden;
+}*/

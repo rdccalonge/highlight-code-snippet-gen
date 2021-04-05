@@ -1,0 +1,132 @@
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\csc.exe
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\vbc.exe
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\HighlightApp.dll.config
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\HighlightApp.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\HighlightApp.pdb
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Antlr3.Runtime.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\EntityFramework.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Newtonsoft.Json.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Owin.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\System.Web.Optimization.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\System.Web.Providers.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\WebGrease.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\System.Web.Optimization.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Antlr3.Runtime.pdb
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Newtonsoft.Json.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\EntityFramework.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\System.Web.Providers.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\obj\Debug\HighlightApp.dll
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\obj\Debug\HighlightApp.pdb
+C:\Users\Renz\Documents\Visual Studio 2015\Projects\HighlightApp\HighlightApp\obj\Debug\HighlightApp.csprojResolveAssemblyReference.cache
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\csc.exe
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\System.Collections.Immutable.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\vbc.exe
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\VBCSCompiler.exe
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\roslyn\VBCSCompiler.exe.config
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\HighlightApp.dll.config
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\HighlightApp.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\HighlightApp.pdb
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Antlr3.Runtime.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\AspNet.ScriptManager.bootstrap.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\EntityFramework.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\EntityFramework.SqlServer.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Google.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Web.Infrastructure.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Newtonsoft.Json.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Owin.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\System.Web.Optimization.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\System.Web.Providers.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\WebGrease.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\System.Web.Optimization.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Antlr3.Runtime.pdb
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Newtonsoft.Json.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\EntityFramework.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\EntityFramework.SqlServer.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\System.Web.Providers.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Google.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\obj\Debug\HighlightApp.csprojResolveAssemblyReference.cache
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\obj\Debug\HighlightApp.dll
+F:\_HIGHLIGHT APP\HighlightApp\HighlightApp\obj\Debug\HighlightApp.pdb
